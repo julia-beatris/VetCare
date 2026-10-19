@@ -18,12 +18,14 @@
 
 .header__brand {
   
-}
-
-.header__title {
     font-size: var(--font-main);
     color: var(--color-primary);
     font-weight: 700;
+    justify-content: center;
+}
+
+.header__title {
+    
   
 }
 
