@@ -40,7 +40,7 @@
 
    }
 
-   .section-ia,
+   .section-vet,
    .faq{
     height: auto;
     min-height: auto;
@@ -49,18 +49,18 @@
 
    }
 
-   .section-ia__title{
+   .section-vet__title{
     font-size: 2.1rem;
 
    }
 
-   .section-ia__text{
+   .section-vet__text{
     font-size: 1.4rem;
 
    }
 
-   .section-ia__container,
-   .section-ia--reverse .section-ia__container{
+   .section-vet__container,
+   .section-vet--reverse .section-vet__container{
     flex-direction: column;
     gap: 16px;
 
