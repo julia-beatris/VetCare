@@ -53,6 +53,13 @@ A página foi organizada em seções integradas e acessíveis pelo menu de naveg
 
 ---
 
+🚀 Como executar
+Clone este repositório:
+
+git clone https://github.com/julia-beatris/VetCare.git
+
+Abra o arquivo index.html no navegador.
+
 ## 📂 Organização da Arquitetura de Arquivos
 
 O projeto adota uma estrutura modularizada de arquivos CSS para manter a organização, reutilização de estilos e facilidade de manutenção:
